@@ -1,0 +1,29 @@
+# Robots.txt for DogSoul & Creator Contenido
+# Optimized for Google, Bing, ChatGPT Search, Claude, Perplexity and AI Engines
+
+User-agent: *
+Allow: /
+
+# AI Crawlers & LLM Indexers
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://dogsoul.risso-patron.com/sitemap.xml
