@@ -52,13 +52,15 @@ Este es el punto que mata a la mayoría de canales de música ambiental/relajant
 
 **Regla de oro para cada video de este canal**: tiene que poder distinguirse de los anteriores en algo más que el nombre del archivo de audio. Antes de producir cualquier video, el agente valida contra el checklist de la Sección 7 — si un video no lo pasa, no se sube, se rediseña.
 
+**REGLA NO NEGOCIABLE DE INTEGRIDAD Y AUTENTICIDAD**: Nunca se genera, sugiere ni publica un testimonio, review, cita o credencial profesional atribuida a una persona que no exista o que no haya dado esa opinión realmente. Esto aplica a la landing, descripciones de video, y cualquier material de marketing.
+
 Música generada por IA está permitida por YouTube, pero solo si el canal agrega una capa humana real: visuales originales (no genéricos de banco de imágenes repetidos), estructura curada, capítulos/timestamps, marco narrativo o temático distinto por video, identidad visual propia y consistente pero no idéntica. Canales de "loop genérico + imagen estática" están siendo específicamente detectados y desmonetizados.
 
 ## 4. Origen de la música — decisión que hay que cerrar antes de producir el primer video
 
 No se sube ningún track sin que quede documentada su procedencia y licencia. Opciones, en orden de preferencia:
 
-1. **Composición original / Atribución transparente** (ElevenLabs Free con atribución obligatoria en descripción + audio ambiental CC0).
+1. **Composición / Narración original con Licencia Comercial Verificada**: Si se utiliza ElevenLabs para voz/narración, debe contar con un plan de pago (Starter o superior) que otorgue derechos de monetización comercial explícitos. **No se publica ningún video con narración de ElevenLabs producida desde una cuenta gratuita.**
 2. **Librería de música de pago con licencia por escrito** que autorice explícitamente monetización en YouTube.
 3. **Compositor contratado**.
 
@@ -131,3 +133,4 @@ Igual que en Comparo360: el agente investiga, produce guiones/conceptos/paquetes
 - No prometer una cifra de facturación para el primer mes — el objetivo temprano es cumplimiento + primera vía de ingreso paralela, no AdSense inmediato.
 - No aplicar a YPP sin haber alcanzado el umbral real y sin haber auditado el catálogo contra la Sección 7.
 - No mezclar la configuración de los dos canales en una misma conversación o documento — cada uno corre con su propia Sección 1 completada.
+- **No generar, sugerir ni publicar testimonios, reviews, citas o credenciales profesionales de personas ficticias o no confirmadas realmente.**
