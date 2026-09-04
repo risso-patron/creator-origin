@@ -1,0 +1,9 @@
+=== PROMPT PRINCIPAL PARA IMAGEN EN 16:9 ===
+Copiar y pegar en Bing Image Creator (DALL-E 3) / Leonardo AI / Midjourney:
+
+A golden retriever and a sweet tabby cat sleeping peacefully side by side on a plush cream-colored rug in a cozy, sunlit living room. Golden hour sunlight casting soft warm rays and subtle lens flare through a large window, indoor plants in background, peaceful and serene mood, photorealistic portrait, high detail, 8k resolution, cinematic atmosphere, 16:9 aspect ratio --ar 16:9
+
+=== PROMPT PARA MINIATURA (THUMBNAIL) - ESTILO BENCHMARK SMART TV ===
+Copiar y pegar para generar la variante de miniatura de alto impacto (Estilo "Sleepy Paws" / "Dog TV"):
+
+5 cute fluffy puppies of different breeds (Australian Shepherd, Golden Retriever, Chocolate Lab, Black Lab) sitting lined up peacefully side by side on a rustic wooden bench, blurred sunny green meadow background, soft natural sunlight, adorable expressions, photorealistic, high detail, 16:9 aspect ratio --ar 16:9
